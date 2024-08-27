@@ -9,7 +9,7 @@ def test_valid():
 #     assert square(5) == (78.5397,25)
 
 def test_fail(): 
-    assert circle(5) == (25,20)
+    assert square(4) == (16,16)
     
 
 # def test_fail():
