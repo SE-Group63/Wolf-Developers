@@ -6,5 +6,5 @@
 
 ![Static Badge](https://img.shields.io/badge/WOLF%20DEVELOPERS-teal?logoSize=logoSize-10)
 
-[![Python](https://github.com/SE-Group63/Wolf-Developers/actions/workflows/python.yml/badge.svg)]
+![Python](https://github.com/SE-Group63/Wolf-Developers/actions/workflows/python.yml/badge.svg)
 
