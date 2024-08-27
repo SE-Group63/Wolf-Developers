@@ -3,4 +3,6 @@ Homework 1
 Rahil Shukla
 Rohan Champaneri
 Karan Patel
-![Static Badge](https://img.shields.io/badge/Python)
+
+![Static Badge](https://img.shields.io/badge/Wolf-Developers-blue)
+
