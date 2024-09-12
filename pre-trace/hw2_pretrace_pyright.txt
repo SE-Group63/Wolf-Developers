@@ -1,0 +1,51 @@
+Auto-excluding **/node_modules
+Auto-excluding **/__pycache__
+Auto-excluding **/.*
+Search paths for file:///workspaces/Wolf-Developers
+  /home/codespace/.cache/pyright-python/1.1.380/node_modules/pyright/dist/typeshed-fallback/stdlib
+  /workspaces/Wolf-Developers
+  /workspaces/Wolf-Developers/typings
+  /home/codespace/.cache/pyright-python/1.1.380/node_modules/pyright/dist/typeshed-fallback/stubs/...
+  /home/codespace/.python/current/lib/python3.12
+  /home/codespace/.python/current/lib/python3.12/lib-dynload
+  /home/codespace/.local/lib/python3.12/site-packages
+  /home/codespace/.python/current/lib/python3.12/site-packages
+Found 1 source file
+pyright 1.1.380
+/workspaces/Wolf-Developers/hw2_debugging.py
+  /workspaces/Wolf-Developers/hw2_debugging.py:3:5 - error: Return type, "Unknown | list[None]", is partially unknown (reportUnknownParameterType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:3:15 - error: Type of parameter "arr" is unknown (reportUnknownParameterType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:3:15 - error: Type annotation is missing for parameter "arr" (reportMissingParameterType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:4:13 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:5:16 - error: Return type is unknown (reportUnknownVariableType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:7:16 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:9:22 - error: Argument type is unknown
+    Argument corresponds to parameter "leftArr" in function "recombine" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:9:32 - error: Argument type is unknown
+    Argument corresponds to parameter "arr" in function "mergeSort" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:9:45 - error: Argument type is unknown
+    Argument corresponds to parameter "rightArr" in function "recombine" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:9:55 - error: Argument type is unknown
+    Argument corresponds to parameter "arr" in function "mergeSort" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:11:15 - error: Type of parameter "leftArr" is unknown (reportUnknownParameterType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:11:15 - error: Type annotation is missing for parameter "leftArr" (reportMissingParameterType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:11:24 - error: Type of parameter "rightArr" is unknown (reportUnknownParameterType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:11:24 - error: Type annotation is missing for parameter "rightArr" (reportMissingParameterType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:14:30 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:14:45 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:15:27 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:15:57 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:23:36 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:26:35 - error: Argument type is unknown
+    Argument corresponds to parameter "obj" in function "len" (reportUnknownArgumentType)
+  /workspaces/Wolf-Developers/hw2_debugging.py:31:7 - error: Type of "random_array" is partially unknown
+    Type of "random_array" is "(arr: Unknown) -> Unknown" (reportUnknownMemberType)
+21 errors, 0 warnings, 0 informations 
+Completed in 0.986sec
