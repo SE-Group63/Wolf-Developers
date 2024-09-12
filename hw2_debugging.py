@@ -1,6 +1,7 @@
 import rand
 
-def mergeSort(arr):
+
+def mergeSort(arr : list[int]) -> list[int]:
     if (len(arr) == 1):
         return arr
 
@@ -8,7 +9,8 @@ def mergeSort(arr):
 
     return recombine(mergeSort(arr[:half]), mergeSort(arr[half:]))
 
-def recombine(leftArr, rightArr):
+
+def recombine(leftArr: list[int], rightArr: list[int]):
     leftIndex = 0
     rightIndex = 0
     mergeArr = [None] * (len(leftArr) + len(rightArr))
@@ -28,7 +30,10 @@ def recombine(leftArr, rightArr):
 
     return mergeArr
 
+
 arr = rand.random_array([None] * 20)
 arr_out = mergeSort(arr)
 
 print(arr_out)
+
+#pyright: strict
