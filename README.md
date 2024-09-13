@@ -13,3 +13,5 @@
 ![Static Badge](https://img.shields.io/badge/pyright-purple)
 
 ![Static Badge](https://img.shields.io/badge/autopep8-black)
+
+![Python2](https://github.com/SE-Group63/Wolf-Developers/actions/workflows/python.yml/badge.svg)
