@@ -28,7 +28,7 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest python_test.py
+          pytest hw2_test.py
 
       - name: Run autopep8
         run: |
