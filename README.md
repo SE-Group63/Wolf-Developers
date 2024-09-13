@@ -12,4 +12,4 @@
 
 ![Static Badge](https://img.shields.io/badge/pyright-purple)
 
-![Static Badge](https://img.shields.io/badge/pyright-black)
+![Static Badge](https://img.shields.io/badge/autopep8-black)
