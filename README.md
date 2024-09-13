@@ -8,3 +8,8 @@
 
 ![Python](https://github.com/SE-Group63/Wolf-Developers/actions/workflows/python.yml/badge.svg)
 
+![Static Badge](https://img.shields.io/badge/pylint-blue)
+
+![Static Badge](https://img.shields.io/badge/pyright-purple)
+
+![Static Badge](https://img.shields.io/badge/pyright-black)
