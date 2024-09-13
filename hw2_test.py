@@ -21,4 +21,3 @@ def test_merge_sort_alternate():
     expected = [1, 2, 3, 4, 5, 6, 7, 8]
     assert mergeSort(arr) == expected               # Test case 3: Array where alternate elements are not sorted
 
-# To run the tests, use: pytest <filename>.py
