@@ -10,6 +10,6 @@
 
 [![Pyright](https://img.shields.io/badge/pyright-purple)](https://github.com/microsoft/pyright)
 
-[![autopep8](https://img.shields.io/badge/autopep8-yellow)](https://github.com/hhatto/autopep8)
+[![autopep8](https://img.shields.io/badge/autopep8-yellow)](https://pypi.org/project/autopep8/)
 
 [![Python Workflow](https://github.com/SE-Group63/Wolf-Developers/actions/workflows/python.yml/badge.svg)](https://github.com/SE-Group63/Wolf-Developers/actions)
